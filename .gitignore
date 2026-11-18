@@ -1,0 +1,8 @@
+# Build-Ausgabe - enthaelt eine gepatchte Kopie der Subsembly-DLL (urheberrechtlich geschuetzt)
+N26Fix/build/
+
+# Wird von build.ps1 aus src/Patcher.cs erzeugt
+N26Fix/tools/Patcher.exe
+
+# Drittbibliothek, wird von NuGet bezogen (siehe README)
+N26Fix/tools/Mono.Cecil.dll
